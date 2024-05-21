@@ -33,7 +33,7 @@ public class ProductoCongelador extends Producto {
 
         System.out.println("El número de lote del producto es: " + GetnumeroLote());
 
-        System.out.println("la fecha de caduidad del producto es: " + GetfechaCaducidad());
+        System.out.println("La fecha de caduidad del producto es: " + GetfechaCaducidad());
 
 
     }
