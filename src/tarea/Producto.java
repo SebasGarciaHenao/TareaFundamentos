@@ -33,7 +33,7 @@ public class Producto {
     }
 
     public int GetnumeroLote(){
-        return 4567356;
+        return 45675556;
     }
 
 
