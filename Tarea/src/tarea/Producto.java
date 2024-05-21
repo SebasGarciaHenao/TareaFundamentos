@@ -6,6 +6,7 @@ public class Producto {
     public int numeroLote;
 
 
+
     public Producto(){
 
     }
@@ -42,6 +43,12 @@ public class Producto {
         ProductoCongelador Con = new ProductoCongelador();
 
         Con.RegistrarProductoCongelador();
+
+        ProductoFresco Fres = new ProductoFresco();
+        Fres.RegistrarProductoFresco();
+
+        ProductoRefrigerado Re = new ProductoRefrigerado();
+        Re.RegistrarProductoRefrigerado();
 
     }
 
